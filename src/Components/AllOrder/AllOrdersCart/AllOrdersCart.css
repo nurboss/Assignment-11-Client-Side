@@ -1,0 +1,17 @@
+.all-title{
+    color: rgb(68, 68, 68);
+    font-size: 40px;
+    font-weight: bold;
+}
+.main-text{
+    padding: 20px;
+    border: 1px solid black;
+}
+.main-text h2{
+    font-size: 25px;
+    font-weight: bold;
+}
+.main-text h3{
+    font-size: 18px;
+    font-weight: bold;
+}

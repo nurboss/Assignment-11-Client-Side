@@ -13,3 +13,6 @@
     color: white;
     border: none;
 }
+.bottom{
+    min-height: 100vh;
+}

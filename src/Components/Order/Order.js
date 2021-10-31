@@ -28,7 +28,7 @@ const Order = () => {
 
     const {title} = orderDetails;
     return (
-        <div className="container mt-5 order-from">
+        <div className="container mt-5 order-from bottom">
             <form onSubmit={handleSubmit(onSubmit)}>
                 {(user.email || user.displayName) && <input defaultValue={user.displayName} {...register("name")} placeholder="Name" />} <br />
 

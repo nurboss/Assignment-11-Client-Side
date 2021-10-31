@@ -10,6 +10,7 @@ import MyOrders from './Components/MyOrders/MyOrders';
 import Order from './Components/Order/Order';
 import NotFound from './Components/NotFound/NotFound';
 import Footer from './Components/Footer/Footer';
+import AllOrder from './Components/AllOrder/AllOrder';
 
 function App() {
   return (
@@ -35,6 +36,9 @@ function App() {
           </Route>
           <Route path="/order/:id">
             <Order></Order>
+          </Route>
+          <Route path="/allOrders">
+            <AllOrder></AllOrder>
           </Route>
           <Route path="*">
             <NotFound></NotFound>

@@ -1,0 +1,25 @@
+.btton{
+    border: none;
+    padding: 8px 15px;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+}
+.order-text{
+    padding: 20px;
+}
+.order-text h4{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.order-text h3{
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.cart-button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
