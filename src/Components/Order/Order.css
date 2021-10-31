@@ -1,0 +1,15 @@
+.order-from{
+    width: 500px;
+}
+.order-from input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid black;
+}
+
+.submit-btn{
+    background-color: #602d90;
+    color: white;
+    border: none;
+}

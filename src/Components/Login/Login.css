@@ -1,0 +1,85 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 100px;
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+.input-box{
+    margin-bottom: 20px;
+}
+.input-box input{
+    width: 100%;
+    padding: 15px;
+    outline: #602d90;
+    border: 2px solid black;
+}
+.input-button input{
+    width: 100%;
+    padding: 15px;
+    border: none;
+    background-color: #602d90;
+    color: white;
+    font-weight: bold;
+}
+.buttn{
+    border: none;
+    padding: 8px 12px;
+    color: white;
+    background-color: #602d90;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.boxes{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 50px;
+}
+.signin{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.error{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    
+}
+.cheakbox{
+    margin-bottom: 15px;
+}
+.cheakbox input{
+    margin: 0 10px;
+}
+.from{
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .boxes{
+        width: 100%;
+        padding: 20px;
+    }
+    .buttn{
+        border: none;
+        padding: 6px 8px;
+        color: white;
+        background-color: #602d90;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+    
+}

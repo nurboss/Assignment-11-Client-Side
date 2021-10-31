@@ -1,0 +1,30 @@
+
+.link{
+    color: white;
+}
+.link:focus{
+    color: white;
+}
+.link:hover{
+    color: rgb(202, 202, 202);
+}
+.bgcolor{
+    background-color: #602d90;
+}
+
+.bttn{
+    border: none;
+    padding: 5px 12px;
+    color: #602d90;
+    background-color: white;
+    font-weight: bold;
+} 
+.color{
+    color: white;
+}
+.logo h2{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
