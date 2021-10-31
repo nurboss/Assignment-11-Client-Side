@@ -16,7 +16,7 @@ const ServiceCart = (props) => {
                     </div>
                     <div className="cart-button"> 
                             <Link to={`/service/${_id}`}>
-                            <button className="button">Details</button>
+                            <button className="button">Details / Order Now</button>
                             </Link>                      
                         </div>
                 </div>
