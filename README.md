@@ -5,7 +5,9 @@ This project was bootstrapped with [Create React App](https://courierhero-fc7de.
 
 ## Available Scripts
 
-In the project directory, you can run:
+# MERN Stack project which is fully Mobile responsive with Firebase Authentication System, included Admin Panel, Login system, and Dashboard Functionality for Customers and Admin.
+# Users have to sign in to order any Service or other requests.
+# Admin can  manage all orders, and Delete any order.
 
 ### `npm start`
 
